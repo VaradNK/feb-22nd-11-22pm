@@ -76,7 +76,7 @@ const textConfig = {
     dateLocale: "en-US",
     letterGreeting: "Rutuuu,",
     letterParagraphs: [
-      "Well it's a ending I guess...I hope this one make you smile maybe a bit...I don't know what after this I just I just yar ektr maje english che vande Bappa jaudet marathit bolto...pn marathit pn ky bolu kalat nhi 2nd code it's a big one tyamdhe me majabaddal lihl ahe thod far like in general mala kay havay and obviously tu ashnarach tya code madhe....Lastly thoda filmy dialogue bolun jato....Ki ant mein sab Happy ending ho hi jaata hai....Aur ending sahi na hoo.....toh woh THE END nhi.....PICTURE ABHI BAKI HAI MERE DOST!!!⏳🧿"
+      "Well it's a ending I guess...I hope this code make you smile😊...yeah there are few more things I wished to BAPPA with you, those wishes are....Can I be the...poem and not the poet? The admired and not the admirer? The captured and not the capturer? The written and not the writer? The loved and not the lover? Can I....for once in life be the wish and not the wisher, be the yearn and not the yearner! I've lived as the poet, the admirer, the lover, the writer, the wisher, the yearner! But for once just for once...Can I be the moon, and not the moonstruck? I still believe everything's gonna be alright between US cause BAPPA ahe na! I'm eagerly hoping & waiting!!!⏳🧿"
     ],
     sealingNote: "I just wish we could go back to how we were before...rutuuu!!🤞"
   },
