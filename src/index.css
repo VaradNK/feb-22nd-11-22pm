@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom 3D perspective utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Polaroid styles */
+@layer components {
+  .polaroid {
+    @apply bg-white rounded-sm shadow-lg overflow-hidden border border-gray-100;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  }
+
+  .polaroid-image {
+    @apply relative overflow-hidden bg-gray-200;
+  }
+
+  .polaroid-caption {
+    @apply px-4 py-8 text-center min-h-20 flex flex-col items-center justify-center;
+  }
+
+  .polaroid-tape {
+    @apply absolute pointer-events-none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 212, 229, 0.15);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #FFB3D9, #FF9DBE);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #FF7AA5, #FF6B9D);
+}
