@@ -102,7 +102,7 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                   <span className="material-icons-round">mail</span>
                 </div>
                 <h3 className="text-2xl font-display text-primary">
-                  W O R D S!
+                  Hoping, Waiting & Wishes!🤞⏳🧿
                 </h3>
               </div>
 
